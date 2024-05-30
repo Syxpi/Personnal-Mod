@@ -1,0 +1,9 @@
+{
+  "variants":
+  {
+    "normal":
+    {
+      "model": "modtest:rack_18u"
+    }
+  }
+}
