@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modtest",
+  "name": "Syxpi's Test Mod",
+  "description": "It's a Test.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "https://syxpi.fr",
+  "updateUrl": "",
+  "authorList": ["Syxpi"],
+  "credits": "Stfu monke.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
